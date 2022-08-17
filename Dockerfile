@@ -1,5 +1,5 @@
 # Dockerイメージの指定
-FROM mysql:5.7
+FROM mysql:latest
 
 # ポートの開放
 EXPOSE 3306
